@@ -1,4 +1,4 @@
-/*
+*
  *  The scanner definition for COOL.
  */
 
